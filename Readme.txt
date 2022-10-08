@@ -1,4 +1,4 @@
-All source codes attached on the github.
+All source code attached on the github.
 This TMA project had implementated on the following address:
 http://student.athabascau.ca/~baofenzh/
 
