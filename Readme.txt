@@ -1,4 +1,5 @@
-This TMA project had implementated on the following address. All source attached on the github:
+All source codes attached on the github.
+This TMA project had implementated on the following address:
 http://student.athabascau.ca/~baofenzh/
 
 You can use the below username and password to login:
